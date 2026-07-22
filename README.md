@@ -169,7 +169,7 @@ House-Price-Prediction-Linear-Regression/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/House-Price-Prediction-Linear-Regression.git
+git clone https://github.com/Satyavatsa/House-Price-Prediction-Linear-Regression.git
 ```
 
 Go to the project folder
